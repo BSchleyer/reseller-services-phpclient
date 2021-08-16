@@ -2,9 +2,9 @@ Reseller-Services PHP API Client
 =======================
 This **PHP 7.2+** library allows you to communicate with the Reseller-Services API.
 
-[![Latest Stable Version](http://poser.pugx.org/bastianleicht/reseller-services-php/v)](https://packagist.org/packages/bastianleicht/reseller-services-php)
-[![Total Downloads](http://poser.pugx.org/bastianleicht/reseller-services-php/downloads)](https://packagist.org/packages/bastianleicht/reseller-services-php)
-[![Latest Unstable Version](http://poser.pugx.org/bastianleicht/reseller-services-php/v/unstable)](https://packagist.org/packages/bastianleicht/reseller-services-php)
+[![Latest Stable Version](http://poser.pugx.org/bastianleicht/reseller-services-php/v)](https://packagist.org/packages/bschleyer/reseller-services-phpclient)
+[![Total Downloads](http://poser.pugx.org/bastianleicht/reseller-services-php/downloads)](https://packagist.org/packages/bschleyer/reseller-services-phpclient)
+[![Latest Unstable Version](http://poser.pugx.org/bastianleicht/reseller-services-php/v/unstable)](https://packagist.org/packages/bschleyer/reseller-services-phpclient)
 [![License](http://poser.pugx.org/bastianleicht/reseller-services-php/license)](https://packagist.org/packages/bastianleicht/reseller-services-php)
 
 > You can find the full API documentation [here](https://docs.reseller-services.de)!
@@ -51,4 +51,4 @@ var_dump($client->domain()->getPrice('de'));
 ?>
 ```
 
-If you want more info on how to use this PHP-API you should check out the [Wiki](https://github.com/bastianleicht/reseller-services-php/wiki).
+If you want more info on how to use this PHP-API you should check out the [Wiki](https://github.com/bschleyer/reseller-services-phpclient/wiki).
