@@ -15,14 +15,14 @@ Recommended installation is using **Composer**!
 
 In the root of your project execute the following:
 ```sh
-$ composer require bastianleicht/reseller-services-php
+$ composer require bschleyer/reseller-services-phpclient
 ```
 
 Or add this to your `composer.json` file:
 ```json
 {
     "require": {
-        "bastianleicht/reseller-services-php": "^1.0"
+        "bschleyer/reseller-services-phpclient": "^1.0"
     }
 }
 ```
