@@ -20,10 +20,11 @@ class Plesk
         $this->resellerServices = $resellerServices;
     }
 
-    public function getPrices()
+    public function getPrices(string $company)
     {
-        //TODO: Hat Björn noch nicht hinzugefügt.
-        throw new AssertNotImplemented();
+        return $this->resellerServices->get('license/getPricelist', [
+            'company' => $company
+        ]);
     }
 
     public function getLicense()
