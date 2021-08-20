@@ -8,6 +8,11 @@
     "prefer-stable": true,
     "authors": [
         {
+            "name": "Bastian Leicht",
+            "email": "mail@bastianleicht.de",
+            "homepage": "https://bastianleicht.de"
+        },
+        {
             "name": "Bjoern Schleyer",
             "email": "mail@bschleyer.de",
             "homepage": "https://www.bschleyer.de"
