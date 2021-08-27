@@ -4,8 +4,6 @@
     "license": "BSD-2-Clause",
     "type": "library",
     "keywords": ["Reselling", "Hosting", "Reseller-Services", "PHP", "API", "Domain"],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
     "authors": [
         {
             "name": "Bastian Leicht",
@@ -22,6 +20,7 @@
         "issues": "https://github.com/bschleyer/reseller-services-phpclient/issues",
         "source": "https://github.com/bschleyer/reseller-services-phpclient"
     },
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.0", 
         "guzzlehttp/guzzle": ">=6.0"
