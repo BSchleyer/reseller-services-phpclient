@@ -29,7 +29,7 @@
     "support": {
         "issues": "https://github.com/bschleyer/reseller-services-phpclient/issues",
         "source": "https://github.com/bschleyer/reseller-services-phpclient"
-    }
+    },
     "autoload": {
         "psr-4": {
             "ResellerServices\\": "src/"
