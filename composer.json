@@ -5,6 +5,7 @@
     "type": "library",
     "keywords": ["Reselling", "Hosting", "Reseller-Services", "PHP", "API", "Domain"],
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Bastian Leicht",
