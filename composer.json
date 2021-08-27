@@ -3,9 +3,9 @@
     "description": "A full-featured implementation of the ResellerServices API",
     "license": "BSD-2-Clause",
     "type": "library",
+    "keywords": ["Reselling", "Hosting", "Reseller-Services", "PHP", "API", "Domain"],
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "keywords": ["Reselling", "Hosting", "Reseller-Services", "PHP", "API", "Domain"],
     "authors": [
         {
             "name": "Bastian Leicht",
@@ -24,7 +24,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "guzzlehttp/guzzle": ">=6.3",
+        "guzzlehttp/guzzle": "^6.3",
         "ext-json": "*"
     },
     "require-dev": {
