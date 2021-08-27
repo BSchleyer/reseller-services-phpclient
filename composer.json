@@ -4,8 +4,8 @@
     "license": "BSD-2-Clause",
     "type": "library",
     "keywords": ["Reselling", "Hosting", "Reseller-Services", "PHP", "API", "Domain"],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "prefer-stable": false,
     "authors": [
         {
             "name": "Bastian Leicht",
